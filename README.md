@@ -1,1 +1,1 @@
-# Art-and-Machine-Learning
+# Art-and-Machine-Learning Project
